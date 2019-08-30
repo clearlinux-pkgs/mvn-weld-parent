@@ -4,7 +4,7 @@
 #
 Name     : mvn-weld-parent
 Version  : 15
-Release  : 1
+Release  : 2
 URL      : https://github.com/weld/parent/archive/15.tar.gz
 Source0  : https://github.com/weld/parent/archive/15.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/jboss/weld/weld-parent/6/weld-parent-6.pom
